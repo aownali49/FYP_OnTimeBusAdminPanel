@@ -1,0 +1,51 @@
+{
+  "name": "react-sidebar-v1",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "@react-google-maps/api": "^2.12.1",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "bulma": "^0.9.4",
+    "chart.js": "^3.8.0",
+    "firebase": "^8.1.0",
+    "google-map-react": "^2.2.0",
+    "react": "^16.13.1",
+    "react-apexcharts": "^1.4.0",
+    "react-chartjs-2": "^4.3.1",
+    "react-dom": "^16.13.1",
+    "react-icons": "^3.11.0",
+    "react-password-checklist": "^1.4.0",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "3.4.3",
+    "react-spinners": "^0.13.4",
+    "victory-pie": "^36.5.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
